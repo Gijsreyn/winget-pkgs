@@ -26,11 +26,12 @@ Tags:
 - editor
 - programming
 ReleaseNotes: |-
-  Quick Updates
+  Patch Fixes
 
   Fixes
-  - Fixed text wrapping layout bugs in Cascade
-  - Fixed a bug where "Show Logs" did not read the correct path
+  - Fixes crashes around MCP misconfiguration
+  - Fixes around web search for Sonnet 3.7
+  - Fixes for proxy settings
 ReleaseNotesUrl: https://codeium.com/changelog
 PurchaseUrl: https://codeium.com/pricing
 Documentations:
